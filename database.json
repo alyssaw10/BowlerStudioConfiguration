@@ -7,7 +7,16 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/7d1f2eeebfb8c0fe12a05b0e56d1d36e.git:robot.groovy": [
+      "https://gist.github.com/7d1f2eeebfb8c0fe12a05b0e56d1d36e.git",
+      "robot.groovy"
+    ],
+    "https://gist.github.com/c81bae08b55cff8f6ee81fe9bcc7359d.git:ModifiedAnimatronics.groovy": [
+      "https://gist.github.com/c81bae08b55cff8f6ee81fe9bcc7359d.git",
+      "ModifiedAnimatronics.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.20.5",
     "skinBranch": "0.20.5",
